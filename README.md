@@ -1,16 +1,13 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/31672668/136912702-4876afda-7cb7-4414-8d2c-63e7699a34a0.jpg)
 
-<!--
-**evanstjabadi/evanstjabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ta da, I am Evans!👋
+
+Welcome to my GitHub page. So far, nothing quiet exciting, but be sure to check out my available repos and reach out if you got a question/comment/suggestion.
+
+- 🔭 I’m currently working at [MTN SA](mtn.co.za)
+- 🌱 I’m currently learning advanced backend systems and auto-forecasting concepts
+- 💬 Ask me about Python, Flask, Django, RESTful API design
+- 📫 How to reach me: Via email, I guess?
+- ⚡ Fun fact: Recently measured a flight take-off speed 😂
