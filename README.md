@@ -1,6 +1,6 @@
-![image](https://user-images.githubusercontent.com/31672668/136912702-4876afda-7cb7-4414-8d2c-63e7699a34a0.jpg)
-
-
+<p align="center" width="100%">
+    <img src="https://user-images.githubusercontent.com/31672668/136912702-4876afda-7cb7-4414-8d2c-63e7699a34a0.jpg">
+</p>
 
 ### Ta da, I am Evans!👋
 
